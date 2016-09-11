@@ -15,6 +15,137 @@ ModelImporter:
     100014: Building_007
     100016: Building_008
     100018: //RootNode
+    100020: Plane
+    100022: Cubicle
+    100024: Cubicle_001
+    100026: Cubicle_002
+    100028: Cubicle_003
+    100030: Cubicle_004
+    100032: Cubicle_005
+    100034: Cubicle_006
+    100036: Cubicle_007
+    100038: Cubicle_008
+    100040: Cubicle_009
+    100042: Cubicle_010
+    100044: Cubicle_011
+    100046: Cubicle_Floor
+    100048: Cubicle_012
+    100050: Cubicle_013
+    100052: Cubicle_014
+    100054: Cubicle_015
+    100056: Cubicle_016
+    100058: Cubicle_017
+    100060: Cubicle_018
+    100062: Cubicle_019
+    100064: Cubicle_020
+    100066: Cubicle_021
+    100068: Cubicle_022
+    100070: Cubicle_023
+    100072: Cubicle_024
+    100074: Cubicle_025
+    100076: Cubicle_026
+    100078: Cubicle_027
+    100080: Cubicle_028
+    100082: Cubicle_029
+    100084: Cubicle_030
+    100086: Cubicle_031
+    100088: Cubicle_032
+    100090: Cubicle_033
+    100092: Cubicle_034
+    100094: Cubicle_035
+    100096: Cubicle_036
+    100098: Cubicle_037
+    100100: Cubicle_038
+    100102: Cubicle_039
+    100104: Cubicle_040
+    100106: Cubicle_041
+    100108: Cubicle_042
+    100110: Cubicle_043
+    100112: Cubicle_044
+    100114: Cubicle_045
+    100116: Cubicle_046
+    100118: Cubicle_047
+    100120: Cubicle_048
+    100122: Cubicle_049
+    100124: Cubicle_050
+    100126: Cubicle_051
+    100128: Cubicle_052
+    100130: Cubicle_053
+    100132: Cubicle_054
+    100134: Cubicle_055
+    100136: Cubicle_056
+    100138: Cubicle_057
+    100140: Cubicle_058
+    100142: Cubicle_059
+    100144: Cubicle_060
+    100146: Cubicle_061
+    100148: Cubicle_062
+    100150: Cubicle_063
+    100152: Cubicle_064
+    100154: Cubicle_065
+    100156: Cubicle_066
+    100158: Cubicle_067
+    100160: Cubicle_068
+    100162: Cubicle_069
+    100164: Cubicle_070
+    100166: Cubicle_071
+    100168: Cubicle_072
+    100170: Cubicle_073
+    100172: Cubicle_074
+    100174: Cubicle_075
+    100176: Cubicle_076
+    100178: Cubicle_077
+    100180: Cubicle_078
+    100182: Cubicle_079
+    100184: Cubicle_080
+    100186: Cubicle_081
+    100188: Cubicle_082
+    100190: Cubicle_083
+    100192: Cubicle_084
+    100194: Cubicle_085
+    100196: Cubicle_086
+    100198: Cubicle_087
+    100200: Cubicle_088
+    100202: Cubicle_089
+    100204: Cubicle_090
+    100206: Cubicle_091
+    100208: Cubicle_092
+    100210: Cubicle_093
+    100212: Cubicle_094
+    100214: Cubicle_095
+    100216: Cubicle_096
+    100218: Cubicle_097
+    100220: Cubicle_098
+    100222: Cubicle_099
+    100224: Cubicle_100
+    100226: Cubicle_101
+    100228: Cubicle_102
+    100230: Cubicle_103
+    100232: Cubicle_104
+    100234: Cubicle_105
+    100236: Cubicle_106
+    100238: Cubicle_107
+    100240: Cubicle_108
+    100242: Cubicle_109
+    100244: Cubicle_110
+    100246: Cubicle_111
+    100248: Cubicle_112
+    100250: Cubicle_113
+    100252: Cubicle_114
+    100254: Cubicle_115
+    100256: Cubicle_116
+    100258: Cubicle_117
+    100260: Cubicle_118
+    100262: Cubicle_119
+    100264: Cubicle_Floor_001
+    100266: Cubicle_Floor_002
+    100268: Cubicle_Floor_003
+    100270: Cubicle_Floor_004
+    100272: Cubicle_Floor_005
+    100274: Cubicle_Floor_006
+    100276: Cubicle_Floor_007
+    100278: Cubicle_Floor_008
+    100280: Cubicle_Floor_009
     400000: Building
     400002: Building_001
     400004: Building_002
@@ -25,6 +156,137 @@ ModelImporter:
     400014: Building_007
     400016: Building_008
     400018: //RootNode
+    400020: Plane
+    400022: Cubicle
+    400024: Cubicle_001
+    400026: Cubicle_002
+    400028: Cubicle_003
+    400030: Cubicle_004
+    400032: Cubicle_005
+    400034: Cubicle_006
+    400036: Cubicle_007
+    400038: Cubicle_008
+    400040: Cubicle_009
+    400042: Cubicle_010
+    400044: Cubicle_011
+    400046: Cubicle_Floor
+    400048: Cubicle_012
+    400050: Cubicle_013
+    400052: Cubicle_014
+    400054: Cubicle_015
+    400056: Cubicle_016
+    400058: Cubicle_017
+    400060: Cubicle_018
+    400062: Cubicle_019
+    400064: Cubicle_020
+    400066: Cubicle_021
+    400068: Cubicle_022
+    400070: Cubicle_023
+    400072: Cubicle_024
+    400074: Cubicle_025
+    400076: Cubicle_026
+    400078: Cubicle_027
+    400080: Cubicle_028
+    400082: Cubicle_029
+    400084: Cubicle_030
+    400086: Cubicle_031
+    400088: Cubicle_032
+    400090: Cubicle_033
+    400092: Cubicle_034
+    400094: Cubicle_035
+    400096: Cubicle_036
+    400098: Cubicle_037
+    400100: Cubicle_038
+    400102: Cubicle_039
+    400104: Cubicle_040
+    400106: Cubicle_041
+    400108: Cubicle_042
+    400110: Cubicle_043
+    400112: Cubicle_044
+    400114: Cubicle_045
+    400116: Cubicle_046
+    400118: Cubicle_047
+    400120: Cubicle_048
+    400122: Cubicle_049
+    400124: Cubicle_050
+    400126: Cubicle_051
+    400128: Cubicle_052
+    400130: Cubicle_053
+    400132: Cubicle_054
+    400134: Cubicle_055
+    400136: Cubicle_056
+    400138: Cubicle_057
+    400140: Cubicle_058
+    400142: Cubicle_059
+    400144: Cubicle_060
+    400146: Cubicle_061
+    400148: Cubicle_062
+    400150: Cubicle_063
+    400152: Cubicle_064
+    400154: Cubicle_065
+    400156: Cubicle_066
+    400158: Cubicle_067
+    400160: Cubicle_068
+    400162: Cubicle_069
+    400164: Cubicle_070
+    400166: Cubicle_071
+    400168: Cubicle_072
+    400170: Cubicle_073
+    400172: Cubicle_074
+    400174: Cubicle_075
+    400176: Cubicle_076
+    400178: Cubicle_077
+    400180: Cubicle_078
+    400182: Cubicle_079
+    400184: Cubicle_080
+    400186: Cubicle_081
+    400188: Cubicle_082
+    400190: Cubicle_083
+    400192: Cubicle_084
+    400194: Cubicle_085
+    400196: Cubicle_086
+    400198: Cubicle_087
+    400200: Cubicle_088
+    400202: Cubicle_089
+    400204: Cubicle_090
+    400206: Cubicle_091
+    400208: Cubicle_092
+    400210: Cubicle_093
+    400212: Cubicle_094
+    400214: Cubicle_095
+    400216: Cubicle_096
+    400218: Cubicle_097
+    400220: Cubicle_098
+    400222: Cubicle_099
+    400224: Cubicle_100
+    400226: Cubicle_101
+    400228: Cubicle_102
+    400230: Cubicle_103
+    400232: Cubicle_104
+    400234: Cubicle_105
+    400236: Cubicle_106
+    400238: Cubicle_107
+    400240: Cubicle_108
+    400242: Cubicle_109
+    400244: Cubicle_110
+    400246: Cubicle_111
+    400248: Cubicle_112
+    400250: Cubicle_113
+    400252: Cubicle_114
+    400254: Cubicle_115
+    400256: Cubicle_116
+    400258: Cubicle_117
+    400260: Cubicle_118
+    400262: Cubicle_119
+    400264: Cubicle_Floor_001
+    400266: Cubicle_Floor_002
+    400268: Cubicle_Floor_003
+    400270: Cubicle_Floor_004
+    400272: Cubicle_Floor_005
+    400274: Cubicle_Floor_006
+    400276: Cubicle_Floor_007
+    400278: Cubicle_Floor_008
+    400280: Cubicle_Floor_009
     2300000: Building
     2300002: Building_001
     2300004: Building_002
@@ -34,6 +296,7 @@ ModelImporter:
     2300012: Building_006
     2300014: Building_007
     2300016: Building_008
+    2300018: Plane
     3300000: Building
     3300002: Building_001
     3300004: Building_002
@@ -43,6 +306,7 @@ ModelImporter:
     3300012: Building_006
     3300014: Building_007
     3300016: Building_008
+    3300018: Plane
     4300000: Building_001
     4300002: Building_002
     4300004: Building_003
@@ -52,6 +316,7 @@ ModelImporter:
     4300012: Building_007
     4300014: Building_008
     4300016: Building
+    4300018: Plane
     6400000: Building
     6400002: Building_001
     6400004: Building_002
@@ -61,6 +326,7 @@ ModelImporter:
     6400012: Building_006
     6400014: Building_007
     6400016: Building_008
+    6400018: Plane
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -121,7 +387,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
