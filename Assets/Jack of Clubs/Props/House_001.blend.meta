@@ -62,6 +62,13 @@ ModelImporter:
     100108: Tree_003
     100110: Tree_004
     100112: Walkway
+    100114: Monorail_Point
+    100116: Monorail_Point_001
+    100118: Monorail_Point_002
+    100120: Monorail_Point_003
+    100122: Monorail_Point_004
+    100124: Monorail_Point_005
+    100126: Monorail_Points
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -119,6 +126,13 @@ ModelImporter:
     400108: Tree_003
     400110: Tree_004
     400112: Walkway
+    400114: Monorail_Point
+    400116: Monorail_Point_001
+    400118: Monorail_Point_002
+    400120: Monorail_Point_003
+    400122: Monorail_Point_004
+    400124: Monorail_Point_005
+    400126: Monorail_Points
     2300000: Cube
     2300002: Cube_001
     2300004: Cube_002
