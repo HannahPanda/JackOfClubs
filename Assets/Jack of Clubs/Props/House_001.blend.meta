@@ -69,6 +69,14 @@ ModelImporter:
     100122: Monorail_Point_004
     100124: Monorail_Point_005
     100126: Monorail_Points
+    100128: Parking
+    100130: Parking_Point
+    100132: Parking_Point_001
+    100134: Parking_Point_002
+    100136: Parking_Point_003
+    100138: Parking_Point_004
+    100140: Parking_Spaces
+    100142: Sidewalk
     400000: Cube
     400002: Cube_001
     400004: Cube_002
@@ -133,6 +141,14 @@ ModelImporter:
     400122: Monorail_Point_004
     400124: Monorail_Point_005
     400126: Monorail_Points
+    400128: Parking
+    400130: Parking_Point
+    400132: Parking_Point_001
+    400134: Parking_Point_002
+    400136: Parking_Point_003
+    400138: Parking_Point_004
+    400140: Parking_Spaces
+    400142: Sidewalk
     2300000: Cube
     2300002: Cube_001
     2300004: Cube_002
@@ -189,6 +205,8 @@ ModelImporter:
     2300106: Tree_003
     2300108: Tree_004
     2300110: Walkway
+    2300112: Parking
+    2300114: Sidewalk
     3300000: Cube
     3300002: Cube_001
     3300004: Cube_002
@@ -245,6 +263,8 @@ ModelImporter:
     3300106: Tree_003
     3300108: Tree_004
     3300110: Walkway
+    3300112: Parking
+    3300114: Sidewalk
     4300000: Cube_008
     4300002: Cube_007
     4300004: Cube_006
@@ -301,6 +321,8 @@ ModelImporter:
     4300106: House_Floors
     4300108: House_level_2_Walls
     4300110: Walkway
+    4300112: Parking
+    4300114: Sidewalk
     6400000: Cube
     6400002: Cube_001
     6400004: Cube_002
@@ -357,6 +379,8 @@ ModelImporter:
     6400106: Tree_003
     6400108: Tree_004
     6400110: Walkway
+    6400112: Parking
+    6400114: Sidewalk
     7400000: Default Take
     9500000: //RootNode
   materials:
